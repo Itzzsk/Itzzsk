@@ -69,8 +69,5 @@ Currently pursuing my **Master of Computer Applications (MCA)** while continuing
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzzsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Itzzsk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
