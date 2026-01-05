@@ -71,6 +71,6 @@ Currently pursuing my **Master of Computer Applications (MCA)** while continuing
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Itzzsk&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Itzzsk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
