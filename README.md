@@ -3,7 +3,7 @@
 # Skanda Umesh
 ### Software Engineer · Founder at OneZeroLabs · MCA Candidate
 
-[Website](https://onezerolabs.in) · [LinkedIn](https://www.linkedin.com/in/skanda-umesh-88b16432b) · [Email](mailto:skandaumesh82@gmail.com)
+[OneZeroLabs](https://onezerolabs.in) · [LinkedIn](https://www.linkedin.com/in/skanda-umesh-88b16432b) · [Email](mailto:skandaumesh82@gmail.com)
 
 </div>
 
