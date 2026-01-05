@@ -63,11 +63,15 @@ Currently pursuing my **Master of Computer Applications (MCA)** while continuing
 
 <div align="center">
 
-![General Stats](https://github-readme-stats.vercel.app/api?username=Itzzsk&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Itzzsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="General Stats" />
+
 <br/>
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Itzzsk&theme=dark&hide_border=true)
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Itzzsk&theme=dark&hide_border=false" alt="Streak Stats" />
+
 <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzzsk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzzsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 <br/>
 
