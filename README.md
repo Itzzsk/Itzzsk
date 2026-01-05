@@ -63,20 +63,14 @@ Currently pursuing my **Master of Computer Applications (MCA)** while continuing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Itzzsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="General Stats" />
+![General Stats](https://github-readme-stats.vercel.app/api?username=Itzzsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Itzzsk&theme=dark&hide_border=false)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzzsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Itzzsk&theme=dark&hide_border=false" alt="Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzzsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-<br/>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Itzzsk&icon=0&color=0" alt="Visitor Count" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=Itzzsk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
