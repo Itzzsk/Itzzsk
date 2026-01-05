@@ -1,11 +1,9 @@
 <div align="center">
 
 # Skanda Umesh
-Software Engineer · Founder at OneZeroLabs · MCA Candidate
+### Software Engineer · Founder at OneZeroLabs · MCA Candidate
 
-[Website](https://onezerolabs.in) · 
-[LinkedIn](https://www.linkedin.com/in/skanda-umesh-88b16432b) · 
-[Email](mailto:skandaumesh82@gmail.com)
+[Website](https://onezerolabs.in) · [LinkedIn](https://www.linkedin.com/in/skanda-umesh-88b16432b) · [Email](mailto:skandaumesh82@gmail.com)
 
 </div>
 
@@ -13,7 +11,7 @@ Software Engineer · Founder at OneZeroLabs · MCA Candidate
 
 ## About
 
-I am a software engineer and founder of **OneZeroLabs**, focused on building practical, production-ready web systems.  
+I am a software engineer and founder of **OneZeroLabs**, focused on building practical, production-ready web systems.
 I independently designed and developed an institutional **Learning Management System (LMS)** that is actively used by a college.
 
 Currently pursuing my **Master of Computer Applications (MCA)** while continuing to build and scale real-world software products.
@@ -65,10 +63,14 @@ Currently pursuing my **Master of Computer Applications (MCA)** while continuing
 
 <div align="center">
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=Itzzsk&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Itzzsk&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzzsk&layout=compact&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Itzzsk&theme=dark&hide_border=true)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzzsk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=Itzzsk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
