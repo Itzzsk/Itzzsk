@@ -65,12 +65,14 @@ Currently pursuing my **Master of Computer Applications (MCA)** while continuing
 
 ![General Stats](https://github-readme-stats.vercel.app/api?username=Itzzsk&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 <br/>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Itzzsk&theme=dark&hide_border=true&background=00000000)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Itzzsk&theme=dark&hide_border=true)
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzzsk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Itzzsk&label=PROFILE+VIEWS&style=for-the-badge&color=23272d" alt="Visitor Count" />
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Itzzsk&icon=0&color=0" alt="Visitor Count" />
+</a>
 
 </div>
