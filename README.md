@@ -3,7 +3,7 @@
 # Skanda Umesh
 ### Software Engineer | Founder, OneZeroLabs | MCA Candidate
 
-[![Website](https://img.shields.io/badge/OneZeroLabs-onezerolabs.in-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://onezerolabs.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skanda-umesh-88b16432b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/skanda.umesh) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:skandaumesh82@gmail.com)
+[![Website](https://img.shields.io/badge/OneZeroLabs-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://onezerolabs.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skanda-umesh-88b16432b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/skanda.umesh) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:skandaumesh82@gmail.com)
 
 ---
 
@@ -61,11 +61,18 @@ I am a software engineer and the founder of **OneZeroLabs**. My work focuses on 
 
 ## Technical Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzzsk&show_icons=true&theme=default&hide_border=true&title_color=4285F4&icon_color=4285F4" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzsk&layout=compact&theme=default&hide_border=true&title_color=4285F4" alt="Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itzzsk&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Itzzsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Itzzsk&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzzsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+![](https://github-contributor-stats.vercel.app/api?username=Itzzsk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=Itzzsk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
