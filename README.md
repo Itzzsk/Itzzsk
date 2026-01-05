@@ -71,6 +71,8 @@ Currently pursuing my **Master of Computer Applications (MCA)** while continuing
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Itzzsk&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Itzzsk&icon=0&color=0" alt="Visitor Count" />
+</a>
 
 </div>
