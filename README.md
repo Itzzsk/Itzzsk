@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi 👋, I'm Skanda<br><br>🎓 MCA student  <br>🚀 Founder of OneZeroLabs  <br>💻 Software Engineer focused on building practical web applications  <br>📚 Built a complete Learning Management System independently under OneZeroLabs  <br>🔧 Working on full-stack development and scalable systems  <br>🌱 More products and projects in progress  <br>
 
 
