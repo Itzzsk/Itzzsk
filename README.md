@@ -3,7 +3,7 @@
 # Skanda Umesh
 ### Software Engineer | Founder, OneZeroLabs | MCA Candidate
 
-[![Website](https://img.shields.io/badge/OneZeroLabs-onezerolabs.in-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://onezerolabs.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skanda-umesh-88b16432b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/skanda.umesh) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:skandaumesh82@gmail.com)
+[![Website](https://img.shields.io/badge/OneZeroLabs-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://onezerolabs.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skanda-umesh-88b16432b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/skanda.umesh) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:skandaumesh82@gmail.com)
 
 ---
 
