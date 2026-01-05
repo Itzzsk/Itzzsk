@@ -63,16 +63,15 @@ Currently pursuing my **Master of Computer Applications (MCA)** while continuing
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Itzzsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Itzzsk&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="General Stats" />
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Itzzsk&theme=dark&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Itzzsk&theme=dark&hide_border=true&background=00000000" alt="Streak Stats" />
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzzsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzzsk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 <br/>
+<br/>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Itzzsk&icon=0&color=0" alt="Visitor Count" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Itzzsk&label=PROFILE+VIEWS&style=for-the-badge&color=23272d" alt="Visitor Count" />
 
 </div>
