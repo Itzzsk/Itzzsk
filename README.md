@@ -7,7 +7,7 @@
 
 ---
 
-**Architecting scalable full-stack ecosystems and institutional software solutions.**
+**Architecting scalable full-stack ecosystems and immersive web experiences.**
 
 </div>
 
@@ -19,20 +19,26 @@ I am a software engineer and the founder of **OneZeroLabs**. My work focuses on 
 
 ## Technical Proficiencies
 
-### Backend & Systems
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
-* **Architecture:** RESTful API Design, Serverless Architecture, and Secure Authentication.
-* **Logic:** Extensive experience with JavaScript, Python, and C for algorithmic optimization.
+### Frontend Engineering & 3D Design
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+* **Stack:** Expertise in React and Next.js for high-performance interfaces.
+* **Immersive Web:** Utilizing Three.js for 3D web graphics and interactive experiences.
+* **Core:** Strong foundation in HTML5, CSS3, and JavaScript (ES6+).
 
-### Frontend & UI Engineering
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
-* **Design:** High-fidelity prototyping and UI/UX engineering with Figma and Framer.
-* **Animation:** Implementing fluid user experiences using Framer Motion and modern React hooks.
+### Backend & Authentication
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+* **Architecture:** Building RESTful services and scalable backends using Node.js and Python.
+* **Security:** Implementing secure identity management via JWT and Firebase Authentication.
 
-### Database & Operations
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-* **Infrastructure:** Managing production environments on **Hostinger VPS** and cloud platforms like Vercel, Netlify, and Render.
-* **Storage:** Specialized in NoSQL data modeling (MongoDB) and Relational schema optimization.
+### Database & Cloud Operations
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+* **Storage:** Specialized in NoSQL (MongoDB/Firebase) and Relational (PostgreSQL) data modeling.
+* **DevOps:** Managing production environments on **Hostinger VPS**, Vercel, Netlify, and Render.
+
+### Product Design & Tooling
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+* **Creative Suite:** Advanced UI/UX prototyping in Figma and Framer.
+* **Visuals:** Graphic design and asset creation using Canva and Picsart.
 
 ---
 
@@ -40,8 +46,8 @@ I am a software engineer and the founder of **OneZeroLabs**. My work focuses on 
 
 ### Enterprise LMS (Learning Management System)
 * **Role:** Lead Engineer (Solo Development).
-* **Innovation:** Independently architected and built a complete LMS featuring advanced attendance tracking and LLM-driven features.
-* **Outcome:** Successfully deployed and acquired by a college institution for institutional daily use.
+* **Innovation:** Independently architected and built a complete LMS featuring advanced attendance tracking and LLM-integrated systems.
+* **Outcome:** Successfully vetted and acquired by a college institution for institutional use.
 
 ### OneZeroLabs Operations
 * **Leadership:** Managing a core team including **Praveen Kumar** (Co-Founder) and **Tanisha Karve** (Operations Lead).
