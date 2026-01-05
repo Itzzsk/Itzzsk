@@ -22,7 +22,7 @@ I am a software engineer and the founder of **OneZeroLabs**. My work focuses on 
 ### Backend & Systems
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
 * **Architecture:** RESTful API Design, Serverless Architecture, and Secure Authentication.
-* **Languages:** Extensive experience with JavaScript, Python, and C for algorithmic optimization.
+* **Logic:** Extensive experience with JavaScript, Python, and C for algorithmic optimization.
 
 ### Frontend & UI Engineering
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
@@ -30,9 +30,9 @@ I am a software engineer and the founder of **OneZeroLabs**. My work focuses on 
 * **Animation:** Implementing fluid user experiences using Framer Motion and modern React hooks.
 
 ### Database & Operations
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-* **Storage:** Specialized in NoSQL data modeling and Relational schema optimization.
-* **DevOps:** CI/CD automation and cloud deployments via Vercel, Netlify, and Render.
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+* **Infrastructure:** Managing production environments on **Hostinger VPS** and cloud platforms like Vercel, Netlify, and Render.
+* **Storage:** Specialized in NoSQL data modeling (MongoDB) and Relational schema optimization.
 
 ---
 
